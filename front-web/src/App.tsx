@@ -1,10 +1,13 @@
-import React from 'react';
+import React from 'react'
 import './App.css';
+import Header from './components/header';
 
 function App() {
   return (
-    <h1>Hello semana DevSuperior</h1>
+    <div>
+      <Header />
+    </div>
   );
 }
 
-export default App;
+export default App
