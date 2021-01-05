@@ -1,5 +1,4 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/marcostorres89/sds1) 
 
 # Sobre o projeto
 
