@@ -1,4 +1,5 @@
 # Big Game Survey 
+[![NPM](https://img.shields.io/npm/l/react)]()
 
 # Sobre o projeto
 
